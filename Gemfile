@@ -7,7 +7,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.4"
 
 # Local theme, depending on the avilability of the .gem file in this root directory
-gem "bay_jekyll_theme"
+gem "bay_jekyll_theme", path: "."
 
 # Plugins
 group :jekyll_plugins do

@@ -56,5 +56,3 @@ scholar:
   order: "descending"
   group_by: "year"
   group_order: "descending"
-
-remote_theme: eliottvincent/bay
