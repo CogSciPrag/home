@@ -57,4 +57,4 @@ scholar:
   group_by: "year"
   group_order: "descending"
 
-theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
