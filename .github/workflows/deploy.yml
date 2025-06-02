@@ -31,6 +31,7 @@ jobs:
         run: |
           gem build bay_jekyll_theme.gemspec
           gem install ./bay_jekyll_theme-*.gem
+          bundle install
 
       - name: Setup Pages
         id: pages
