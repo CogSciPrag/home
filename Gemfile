@@ -6,6 +6,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 gem "jekyll", "~> 4.3.4"
 
+# Local theme
+gem "bay_jekyll_theme", path: "./bay_jekyll_theme" # if theme is local
+
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
