@@ -1,0 +1,55 @@
+---
+layout: work
+title: People
+slug: /people
+items:
+  - title: <a href="https://michael-franke.github.io/heimseite/">Michael Franke</a>
+    image:
+      src: /assets/img/work/water.png
+      alt: Michael Franke
+    description: Michael is a professor at the Department of Linguistics at the University of Tübingen. He is interested broadly in cognitive and evolutionary modeling and applications thereof to language use, reasoning, decision making and other features of higher-order cognition. The focus of his work is on experimental pragmatics, supplemented with probabilistic modeling. He is also interested in foundational questions concerning the relation between empirical data, abstract theory and explicit mathematical modeling. Please contact the secretary’s office for all organizational matters.
+  - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
+    image:
+      src: /assets/img/work/sand.png
+      alt: Todd Snider
+    description: I’m an Assistant Professor and Lecturer at the Seminar für Sprachwissenschaft at Eberhard Karls Universität Tübingen. My research focuses on the semantics and pragmatics of natural language. In particular, I am interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena. My research is rooted in traditional linguistic theory, but looks to incorporate insights from neighboring fields, including philosophy, psychology, mathematics, and computer science, in order to refine and deepen our understanding of linguistic phenomena.
+  - title: Nadine Balbach
+    image:
+      src: /assets/img/work/water.png
+      alt: Nadine Balbach
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - title: Polina Tsvilodub
+    image:
+      src: /assets/img/work/sand.png
+      alt: Polina Tsvilodub
+    description: I am a third-year PhD student. In my projects I work towards understanding how neural language models inclduing LLMs generate pragmatic natural language and which aspects contribute to this capacity. My approach is influenced by my training in Cognitive Science and combines methods from psycholnguistics as well as state-of-the-art NLP and AI. Currently I look at models for pragmatic grounded natural language generation and open-ended question answering.
+  - title: Hening Wang
+    image:
+      src: /assets/img/work/water.png
+      alt: Hening Wang
+    description: I am a second-year PhD student in General Linguistics. I Work on a PhD project titled "Understand Pragmatic Reasoning about Causal Relationships using Bayesian modeling".
+  - title: Amirhossein Mohammadpour
+    image:
+      src: /assets/img/work/sand.png
+      alt: Amirhossein Mohammadpour
+    description: First year PhD student in Computational Linguostics. I am interested in Mechanistic Interpretability of Large Langue Models and I am working on how causal inner workings of such models could relate to human cognitive processes.
+  - title: Eline Ensinck
+    image:
+      src: /assets/img/work/water.png
+      alt: Eline Ensinck
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - title: Ari Joshi
+    image:
+      src: /assets/img/work/sand.png
+      alt: Ari Joshi
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - title: Jan-Felix Klumpp
+    image:
+      src: /assets/img/work/water.png
+      alt: Jan-Felix Klumpp
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - title: (Alumnus) <a href="https://faustocarcassi.com/">Fausto Carcassi</a>
+    image:
+      src: /assets/img/work/sand.png
+      alt: Fausto Carcassi
+---

@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/bay"
+title: CogSciPrag homepage
+description: Homepage of the CSP lab at the University of Tübingen.
+baseurl: "/home"
 url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
@@ -12,8 +12,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Research
+    - name: People
+    - name: Publications
+    - name: Resources
 
 footer:
   show_powered_by: true
@@ -21,29 +23,10 @@ footer:
     - type: email
       name: Email
       value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+      link: https://github.com/CogSciPrag
 
 # Build settings
 markdown: kramdown
@@ -51,7 +34,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
-
+  - jekyll-scholar
 # Excluded items
 exclude:
   - .sass-cache/
@@ -67,3 +50,12 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+scholar:
+  sort_by: "descending"
+  order: "descending"
+  group_by: "year"
+  group_order: "descending"
+  
+bibliography_list_attributes:
+  reversed: "reversed"

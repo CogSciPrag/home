@@ -5,10 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
+<h1>Welcome to the CogSciPrag homepage!</h1>
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
-
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  We are the Cognitive Science of Pragmatics group, CogSciPrag, at the University of Tübingen. Our goal is to broadly understand how natural language is interpreted and produced, and how these processes are guided by different aspects of context and the agents' cognitive mechanisms. We approach these questions from an interdisciplinary perspective of Cognitive Science. Our methods and interests include probabilistic modeling, work with Large Language models, web-based experiments with human participants, frameworks combining cognitive and neural models, and more.
 </p>
