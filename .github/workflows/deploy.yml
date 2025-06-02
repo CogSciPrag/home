@@ -27,7 +27,7 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
-     - name: Build and Install Local Theme Gem
+      - name: Build and Install Local Theme Gem
         run: |
           gem build bay_jekyll_theme.gemspec
           gem install ./bay_jekyll_theme-*.gem
