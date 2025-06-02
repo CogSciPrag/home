@@ -6,8 +6,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 gem "jekyll", "~> 4.3.4"
 
-# Local theme, depending on the avilability of the .gem file in this root directory
-gem "bay_jekyll_theme", path: "."
+gem 'bay_jekyll_theme', '~> 1.2', '>= 1.2.2'
 
 # Plugins
 group :jekyll_plugins do

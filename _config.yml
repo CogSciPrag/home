@@ -8,6 +8,8 @@ url: "https://cogsciprag.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
+theme: bay_jekyll_theme
+
 header:
   pages:
     - name: Home

@@ -1,13 +1,9 @@
-PATH
-  remote: .
-  specs:
-    bay_jekyll_theme (1.2.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
+    bay_jekyll_theme (1.2.2)
     bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
       racc (~> 1.7)
@@ -207,7 +203,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  bay_jekyll_theme!
+  bay_jekyll_theme (~> 1.2, >= 1.2.2)
   jekyll (~> 4.3.4)
   jekyll-feed (~> 0.17)
   jekyll-scholar
