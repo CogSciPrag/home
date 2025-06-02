@@ -6,8 +6,8 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 gem "jekyll", "~> 4.3.4"
 
-# Local theme
-gem "bay_jekyll_theme", path: "./bay_jekyll_theme" # if theme is local
+# Local theme, depending on the avilability of the .gem file in this root directory
+gem "bay_jekyll_theme"
 
 # Plugins
 group :jekyll_plugins do
@@ -24,3 +24,5 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+
+gem "webrick", "~> 1.9"
