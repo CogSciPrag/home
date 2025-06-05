@@ -38,11 +38,11 @@ items:
       src: /assets/img/work/water.png
       alt: Eline Ensinck
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  - title: Ari Joshi
+  - title: <a href="https://www.leibniz-zas.de/en/personen/details/joshi-aarti/aarti-joshi">Ari Joshi</a>
     image:
       src: /assets/img/work/sand.png
       alt: Ari Joshi
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Ari is a PhD student, based at ZAS Berlin. She's broadly interested in how we modulate and coordinate on meaning components that are shared 'between the lines'. In her doctoral project, she is approaching this through the lens of so-called metalinguistic operators, like the negation in "Mary didn't *stop* smoking, since she never started". She also enjoys thinking about the depth-charge illusion, assorted curiosities from Marathi, and the probabilisticness of apparently everything. At the moment, her preferred tools are mostly formal and experimental.
   - title: Jan-Felix Klumpp
     image:
       src: /assets/img/work/water.png
