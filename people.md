@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/MF.png
       alt: Michael Franke
-    description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
+    description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's usually very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
   - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
     image:
       src: /assets/img/work/sand.png
