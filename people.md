@@ -5,7 +5,7 @@ slug: /people
 items:
   - title: <a href="https://michael-franke.github.io/heimseite/">Michael Franke</a>
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/MF.png
       alt: Michael Franke
     description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
   - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
@@ -32,7 +32,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: Amirhossein Mohammadpour
-    description: First year PhD student in Computational Linguostics. I am interested in Mechanistic Interpretability of Large Langue Models and I am working on how causal inner workings of such models could relate to human cognitive processes.
+    description: Amir is a first year PhD student in Computational Linguistics. He is interested in Mechanistic Interpretability of Large Language Models and working on how causal inner workings of such models could relate to human cognitive processes.
   - title: Eline Ensinck
     image:
       src: /assets/img/work/water.png
@@ -40,7 +40,7 @@ items:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   - title: <a href="https://www.leibniz-zas.de/en/personen/details/joshi-aarti/aarti-joshi">Ari Joshi</a>
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/AJ.png
       alt: Ari Joshi
     description: Ari is a PhD student, based at ZAS Berlin. She's broadly interested in how we modulate and coordinate on meaning components that are shared 'between the lines'. In her doctoral project, she is approaching this through the lens of so-called metalinguistic operators, like the negation in "Mary didn't *stop* smoking, since she never started". She also enjoys thinking about the depth-charge illusion, assorted curiosities from Marathi, and the probabilisticness of apparently everything. At the moment, her preferred tools are mostly formal and experimental.
   - title: Jan-Felix Klumpp
