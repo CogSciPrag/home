@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: Michael Franke
-    description: Michael is a professor at the Department of Linguistics at the University of Tübingen. He is interested broadly in cognitive and evolutionary modeling and applications thereof to language use, reasoning, decision making and other features of higher-order cognition. The focus of his work is on experimental pragmatics, supplemented with probabilistic modeling. He is also interested in foundational questions concerning the relation between empirical data, abstract theory and explicit mathematical modeling. Please contact the secretary’s office for all organizational matters.
+    description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
   - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
     image:
       src: /assets/img/work/sand.png
