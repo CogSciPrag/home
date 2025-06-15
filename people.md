@@ -20,9 +20,9 @@ items:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   - title: Polina Tsvilodub
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/PT.png
       alt: Polina Tsvilodub
-    description: I am a third-year PhD student. In my projects I work towards understanding how neural language models inclduing LLMs generate pragmatic natural language and which aspects contribute to this capacity. My approach is influenced by my training in Cognitive Science and combines methods from psycholnguistics as well as state-of-the-art NLP and AI. Currently I look at models for pragmatic grounded natural language generation and open-ended question answering.
+    description: Polina is a senior PhD student. She has a cognitive science background, and is excited about understanding pragmatic, goal-directed language generation and interpretation, both in humans and machines. Her work uses a combination of human experimental research, LLM studies, and strives to develop frameworks for combining computational cognitive models and LLM modules for explaining more open-ended pragmatic language use.
   - title: Hening Wang
     image:
       src: /assets/img/work/water.png
