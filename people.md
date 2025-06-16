@@ -10,7 +10,7 @@ items:
     description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's usually very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
   - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/TNS.png
       alt: Todd Snider
     description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
   - title: Nadine Balbach
