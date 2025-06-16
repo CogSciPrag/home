@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: Todd Snider
-    description: I’m an Assistant Professor and Lecturer at the Seminar für Sprachwissenschaft at Eberhard Karls Universität Tübingen. My research focuses on the semantics and pragmatics of natural language. In particular, I am interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena. My research is rooted in traditional linguistic theory, but looks to incorporate insights from neighboring fields, including philosophy, psychology, mathematics, and computer science, in order to refine and deepen our understanding of linguistic phenomena.
+    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
   - title: Nadine Balbach
     image:
       src: /assets/img/work/water.png
