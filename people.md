@@ -10,9 +10,9 @@ items:
     description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's usually very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
   - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/TNS.png
       alt: Todd Snider
-    description: I’m an Assistant Professor and Lecturer at the Seminar für Sprachwissenschaft at Eberhard Karls Universität Tübingen. My research focuses on the semantics and pragmatics of natural language. In particular, I am interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena. My research is rooted in traditional linguistic theory, but looks to incorporate insights from neighboring fields, including philosophy, psychology, mathematics, and computer science, in order to refine and deepen our understanding of linguistic phenomena.
+    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
   - title: Nadine Balbach
     image:
       src: /assets/img/work/water.png
@@ -25,9 +25,9 @@ items:
     description: Polina is a senior PhD student. She has a cognitive science background, and is excited about understanding pragmatic, goal-directed language generation and interpretation, both in humans and machines. Her work uses a combination of human experimental research, LLM studies, and strives to develop frameworks for combining computational cognitive models and LLM modules for explaining more open-ended pragmatic language use.
   - title: Hening Wang
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/HW_avatar.png
       alt: Hening Wang
-    description: I am a second-year PhD student in General Linguistics. I Work on a PhD project titled "Understand Pragmatic Reasoning about Causal Relationships using Bayesian modeling".
+    description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
   - title: Amirhossein Mohammadpour
     image:
       src: /assets/img/work/sand.png
