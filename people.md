@@ -25,9 +25,9 @@ items:
     description: Polina is a senior PhD student. She has a cognitive science background, and is excited about understanding pragmatic, goal-directed language generation and interpretation, both in humans and machines. Her work uses a combination of human experimental research, LLM studies, and strives to develop frameworks for combining computational cognitive models and LLM modules for explaining more open-ended pragmatic language use.
   - title: Hening Wang
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/HW_avatar.png
       alt: Hening Wang
-    description: I am a second-year PhD student in General Linguistics. I Work on a PhD project titled "Understand Pragmatic Reasoning about Causal Relationships using Bayesian modeling".
+    description: Hening Wang is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the *Linguistic Meaning and Bayesian Modeling* (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association ([link](https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes)). His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes *.DS_Store*.
   - title: Amirhossein Mohammadpour
     image:
       src: /assets/img/work/sand.png
