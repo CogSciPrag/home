@@ -32,7 +32,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: Amirhossein Mohammadpour
-    description: Amir is a first year PhD student in Computational Linguistics. He is interested in Mechanistic Interpretability of Large Language Models and working on how causal inner workings of such models could relate to human cognitive processes.
+    description: Amir is a first-year PhD student with a background in computational linguistics and natural language processing. His research interests cover the mechanistic interpretability of transformers and the expressiveness thereof, in concert with the application of these methods to deepen our understanding of machine learnability and, potentially, cognition.
   - title: Eline Ensinck
     image:
       src: /assets/img/work/water.png
