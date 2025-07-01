@@ -28,10 +28,10 @@ items:
       src: /assets/img/work/HW_avatar.png
       alt: Hening Wang
     description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
-  - title: Amirhossein Mohammadpour
+  - title: Amir Mohammadpour
     image:
-      src: /assets/img/work/sand.png
-      alt: Amirhossein Mohammadpour
+      src: /assets/img/work/AP.png
+      alt: Amir Mohammadpour
     description: Amir is a first-year PhD student with a background in computational linguistics and natural language processing. His research interests cover the mechanistic interpretability of transformers and the expressiveness thereof, in concert with the application of these methods to deepen our understanding of machine learnability and, potentially, cognition.
   - title: Eline Ensinck
     image:
