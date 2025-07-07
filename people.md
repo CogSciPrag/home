@@ -35,9 +35,9 @@ items:
     description: Amir is a first-year PhD student with a background in computational linguistics and natural language processing. His research interests cover the mechanistic interpretability of transformers and the expressiveness thereof, in concert with the application of these methods to deepen our understanding of machine learnability and, potentially, cognition.
   - title: Eline Ensinck
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/EE.png
       alt: Eline Ensinck
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Eline is doing a PhD on the semantics and pragmatics of LLMs in the philosophy of language group at Radboud university in Nijmegen (the Netherlands). Michael Franke is her third supervisor and in this way she is also linked to the CSP lab. Besides looking at questions such as what LLMs may “understand”, she is very much interested in the interaction between humans and LLMs and how e.g. humanlike descriptions of these models influence our interpretation of them.
   - title: <a href="https://www.leibniz-zas.de/en/personen/details/joshi-aarti/aarti-joshi">Ari Joshi</a>
     image:
       src: /assets/img/work/AJ.png
