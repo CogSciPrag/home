@@ -24,7 +24,10 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: mchfranke at gmail dot com
+    - type: licence
+      name: Impressum
+      link: https://github.com/CogSciPrag/home/impressum.md
   follow:
     - type: github
       name: GitHub
