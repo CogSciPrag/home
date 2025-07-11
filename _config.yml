@@ -27,7 +27,7 @@ footer:
       value: mchfranke at gmail dot com
     - type: licence
       name: Impressum
-      link: https://github.com/CogSciPrag/home/impressum.md
+      link: https://github.com/CogSciPrag/home/blob/master/impressum.md
   follow:
     - type: github
       name: GitHub
