@@ -7,5 +7,8 @@ profile_picture:
 
 <h1>Welcome to the CogSciPrag homepage!</h1>
 <p>
-  We are the Cognitive Science of Pragmatics group (CSP lab), at the Department of Linguistics at the University of Tübingen. Broadly, our goal is to understand how natural language is interpreted and produced, and how these processes are guided by different aspects of context and the agents' cognitive mechanisms. We approach these questions from an interdisciplinary perspective of Cognitive Science. Our methods and interests include probabilistic modeling, work with Large Language models, web-based experiments with human participants, frameworks combining cognitive and neural models, and more.
+  We are the Cognitive Science & Pragmatics group (CSP lab), at the Department of Linguistics at the University of Tübingen. We study how pragmatic language is interpreted and produced, and how different aspects of context and the agents' cognitive mechanisms influence those processes.
+  We are interested in pragmatic language use both by humans and language models.
+  We approach these questions from an interdisciplinary perspective of computational Cognitive Science. 
+  Our work includes diverse methods --- theoretical work, probabilistic cognitive modeling, neural language models, web-based experiments with human participants, cognitive modeling, mechanistic interpretability methods.
 </p>

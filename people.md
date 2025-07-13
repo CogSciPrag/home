@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: Nadine Balbach
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Apart from coordinating a DFG center, I am also a PhD student working in the field of experimental pragmatics. My research focuses on the inferences triggered by exceptives. I investigate this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, I conduct self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
   - title: Polina Tsvilodub
     image:
       src: /assets/img/work/PT.png
@@ -48,9 +48,4 @@ items:
       src: /assets/img/work/water.png
       alt: Jan-Felix Klumpp
     description: Jan-Felix is a first-year PhD student in General / Computational Linguistics. He is particularly interested in the pragmatic behaviour of modern Large Language Models, in using them to model more complex reasoning processes, and more generally in the implications of these models for linguistic research.
-  - title: (Alumnus) <a href="https://faustocarcassi.com/">Fausto Carcassi</a>
-    image:
-      src: /assets/img/work/sand.png
-      alt: Fausto Carcassi
-    description: Fausto did a postdoc with the lab.
 ---
