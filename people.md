@@ -10,34 +10,34 @@ items:
     description: Michael usually self-identifies as a computational cognitive scientist interested in higher cognition and language in particular. He has a background in cognitive science, logic and game-theory, and he's usually very happy when he can use Bayesian data analysis to fit bespoke, theoretically informed probabilistic models to empirical data.
   - title: <a href="https://tsnider.github.io/snider/index.html">Todd Snider</a>
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/TNS.png
       alt: Todd Snider
-    description: I’m an Assistant Professor and Lecturer at the Seminar für Sprachwissenschaft at Eberhard Karls Universität Tübingen. My research focuses on the semantics and pragmatics of natural language. In particular, I am interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena. My research is rooted in traditional linguistic theory, but looks to incorporate insights from neighboring fields, including philosophy, psychology, mathematics, and computer science, in order to refine and deepen our understanding of linguistic phenomena.
+    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
   - title: Nadine Balbach
     image:
       src: /assets/img/work/water.png
       alt: Nadine Balbach
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Apart from coordinating a DFG center, I am also a PhD student working in the field of experimental pragmatics. My research focuses on the inferences triggered by exceptives. I investigate this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, I conduct self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
   - title: Polina Tsvilodub
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/PT.png
       alt: Polina Tsvilodub
-    description: I am a third-year PhD student. In my projects I work towards understanding how neural language models inclduing LLMs generate pragmatic natural language and which aspects contribute to this capacity. My approach is influenced by my training in Cognitive Science and combines methods from psycholnguistics as well as state-of-the-art NLP and AI. Currently I look at models for pragmatic grounded natural language generation and open-ended question answering.
+    description: Polina is a senior PhD student. She has a cognitive science background, and is excited about understanding pragmatic, goal-directed language generation and interpretation, both in humans and machines. Her work uses a combination of human experimental research, LLM studies, and strives to develop frameworks for combining computational cognitive models and LLM modules for explaining more open-ended pragmatic language use.
   - title: Hening Wang
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/HW_avatar.png
       alt: Hening Wang
-    description: I am a second-year PhD student in General Linguistics. I Work on a PhD project titled "Understand Pragmatic Reasoning about Causal Relationships using Bayesian modeling".
-  - title: Amirhossein Mohammadpour
+    description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
+  - title: Amir Mohammadpour
     image:
-      src: /assets/img/work/sand.png
-      alt: Amirhossein Mohammadpour
-    description: Amir is a first year PhD student in Computational Linguistics. He is interested in Mechanistic Interpretability of Large Language Models and working on how causal inner workings of such models could relate to human cognitive processes.
+      src: /assets/img/work/AP.png
+      alt: Amir Mohammadpour
+    description: Amir is a first-year PhD student with a background in computational linguistics and natural language processing. His research interests cover the mechanistic interpretability of transformers and the expressiveness thereof, in concert with the application of these methods to deepen our understanding of machine learnability and, potentially, cognition.
   - title: Eline Ensinck
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/EE.png
       alt: Eline Ensinck
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Eline is doing a PhD on the semantics and pragmatics of LLMs in the philosophy of language group at Radboud university in Nijmegen (the Netherlands). Michael Franke is her third supervisor and in this way she is also linked to the CSP lab. Besides looking at questions such as what LLMs may “understand”, she is very much interested in the interaction between humans and LLMs and how e.g. humanlike descriptions of these models influence our interpretation of them.
   - title: <a href="https://www.leibniz-zas.de/en/personen/details/joshi-aarti/aarti-joshi">Ari Joshi</a>
     image:
       src: /assets/img/work/AJ.png
@@ -47,9 +47,5 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: Jan-Felix Klumpp
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  - title: (Alumnus) <a href="https://faustocarcassi.com/">Fausto Carcassi</a>
-    image:
-      src: /assets/img/work/sand.png
-      alt: Fausto Carcassi
+    description: Jan-Felix is a first-year PhD student in General / Computational Linguistics. He is particularly interested in the pragmatic behaviour of modern Large Language Models, in using them to model more complex reasoning processes, and more generally in the implications of these models for linguistic research.
 ---
