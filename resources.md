@@ -15,18 +15,18 @@ slug: /resources
 * [Neural pragmatic natural language generation](https://michael-franke.github.io/npNLG/000-intro.html) taught by Michael in winter term 2022.
 * Compact courses on [Reinforcement learning for LM training](https://polina-tsvilodub.github.io/RL4-language-model-training/intro.html) and [LLM agents](https://polina-tsvilodub.github.io/LMARL-course/intro.html) taught by Polina.
 
+### Other webbooks
+
+* A webbook on [probabilistic pragmatics](http://www.problang.org/).
+* A webbook on [Introduction to Data Analysis](https://michael-franke.github.io/intro-data-analysis/index.html).
+* A webbook on [Bayesian regression analyses](https://michael-franke.github.io/Bayesian-Regression/)
+* A webbook on [the probabilistic Language of Thought](https://thelogicalgrammar.github.io/pLoT_course/intro.html).
+
 # Resources
 
 ### Web-based experiments 
 
 The framework[_magpie](https://magpie-ea.github.io/magpie-docs/) based on `vue.js` for running web-based experiments with participants.
-
-### Other webbooks
-
-* A webbook on [probabilistic pragmatics](http://www.problang.org/).
-* A webbook on [Bayesian data analysis with R](https://michael-franke.github.io/intro-data-analysis/index.html).
-* A webbook on [the probabilistic Language of Thought](https://thelogicalgrammar.github.io/pLoT_course/intro.html).
-* A webbook on [computational cognitive science](https://thelogicalgrammar.github.io/cognitive-modelling-book/).
 
 ### Datasets
 

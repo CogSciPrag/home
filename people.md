@@ -38,7 +38,7 @@ items:
       src: /assets/img/work/EE.png
       alt: Eline Ensinck
     description: Eline is doing a PhD on the semantics and pragmatics of LLMs in the philosophy of language group at Radboud university in Nijmegen (the Netherlands). Michael Franke is her third supervisor and in this way she is also linked to the CSP lab. Besides looking at questions such as what LLMs may “understand”, she is very much interested in the interaction between humans and LLMs and how e.g. humanlike descriptions of these models influence our interpretation of them.
-  - title: <a href="https://www.leibniz-zas.de/en/personen/details/joshi-aarti/aarti-joshi">Ari Joshi</a>
+  - title: <a href="https://arijoshi.github.io">Ari Joshi</a>
     image:
       src: /assets/img/work/AJ.png
       alt: Ari Joshi
