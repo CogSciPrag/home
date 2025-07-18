@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: Nadine Balbach
-    description: Apart from coordinating a DFG center, I am also a PhD student working in the field of experimental pragmatics. My research focuses on the inferences triggered by exceptives. I investigate this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, I conduct self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
+    description: Apart from coordinating a DFG center, Nadine is also a PhD student working in the field of experimental pragmatics. Her research focuses on the inferences triggered by exceptives. She investigates this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, she conducts self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
   - title: Polina Tsvilodub
     image:
       src: /assets/img/work/PT.png
