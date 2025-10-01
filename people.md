@@ -18,21 +18,6 @@ items:
       src: /assets/img/work/water.png
       alt: Nadine Balbach
     description: Apart from coordinating a DFG center, Nadine is also a PhD student working in the field of experimental pragmatics. Her research focuses on the inferences triggered by exceptives. She investigates this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, she conducts self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
-  - title: <a href="https://polina-tsvilodub.github.io/home//">Polina Tsvilodub</a>
-    image:
-      src: /assets/img/work/PT.png
-      alt: Polina Tsvilodub
-    description: Polina is a senior PhD student. She has a cognitive science background, and is excited about understanding pragmatic, goal-directed language generation and interpretation, both in humans and machines. Her work uses a combination of human experimental research, LLM studies, and strives to develop frameworks for combining computational cognitive models and LLM modules for explaining more open-ended pragmatic language use.
-  - title: Hening Wang
-    image:
-      src: /assets/img/work/HW_avatar.png
-      alt: Hening Wang
-    description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
-  - title: Amir Mohammadpour
-    image:
-      src: /assets/img/work/AP.png
-      alt: Amir Mohammadpour
-    description: Amir is a first-year PhD student with a background in computational linguistics and natural language processing. His research interests cover the mechanistic interpretability of transformers and the expressiveness thereof, in concert with the application of these methods to deepen our understanding of machine learnability and, potentially, cognition.
   - title: Eline Ensinck
     image:
       src: /assets/img/work/EE.png
@@ -48,4 +33,24 @@ items:
       src: /assets/img/work/water.png
       alt: Jan-Felix Klumpp
     description: Jan-Felix is a first-year PhD student in General / Computational Linguistics. He is particularly interested in the pragmatic behaviour of modern Large Language Models, in using them to model more complex reasoning processes, and more generally in the implications of these models for linguistic research.
+  - title: Amir Mohammadpour
+    image:
+      src: /assets/img/work/AP.png
+      alt: Amir Mohammadpour
+    description: Amir is a first-year PhD student with a background in computational linguistics and natural language processing. His research interests cover the mechanistic interpretability of transformers and the expressiveness thereof, in concert with the application of these methods to deepen our understanding of machine learnability and, potentially, cognition.
+  - title: Amelie Rüeck
+    image:
+      src: /assets/img/work/AR.png
+      alt: Amelie Rüeck
+    description: Amelie ist a first year PhD student in General Linguistics, as part of project A1 of the <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-common-ground/">CRC 1718 on Common Ground</a>. With a background in syntax, pragmatics, and computational linguistics, she is mainly interested in probabilistic reasoning about Common Ground, particularly within the Rational Speech Act framework. She is also interested in the syntax-pragmatics interface and in uncooperative communication.
+  - title: <a href="https://polina-tsvilodub.github.io/home//">Polina Tsvilodub</a>
+    image:
+      src: /assets/img/work/PT.png
+      alt: Polina Tsvilodub
+    description: Polina is a senior PhD student. She has a cognitive science background, and is excited about understanding pragmatic, goal-directed language generation and interpretation, both in humans and machines. Her work uses a combination of human experimental research, LLM studies, and strives to develop frameworks for combining computational cognitive models and LLM modules for explaining more open-ended pragmatic language use.
+  - title: Hening Wang
+    image:
+      src: /assets/img/work/HW_avatar.png
+      alt: Hening Wang
+    description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
 ---
