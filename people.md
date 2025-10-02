@@ -42,7 +42,7 @@ items:
     image:
       src: /assets/img/work/AR.png
       alt: Amelie Rüeck
-    description: Amelie ist a first year PhD student in General Linguistics, as part of project A1 of the <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-common-ground/">CRC 1718 on Common Ground</a>. With a background in syntax, pragmatics, and computational linguistics, she is mainly interested in probabilistic reasoning about Common Ground, particularly within the Rational Speech Act framework. She is also interested in the syntax-pragmatics interface and in uncooperative communication.
+    description: Amelie is a first year PhD student in General Linguistics, as part of project A1 of the <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-common-ground/">CRC 1718 on Common Ground</a>. With a background in syntax, pragmatics, and computational linguistics, she is mainly interested in probabilistic reasoning about Common Ground, particularly within the Rational Speech Act framework. She is also interested in the syntax-pragmatics interface and in uncooperative communication.
   - title: <a href="https://polina-tsvilodub.github.io/home//">Polina Tsvilodub</a>
     image:
       src: /assets/img/work/PT.png
