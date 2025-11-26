@@ -13,6 +13,11 @@ items:
       src: /assets/img/work/TNS.png
       alt: Todd Snider
     description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
+ - title: Andreas Waldis
+    image:
+      src: /assets/img/work/AW.png
+      alt: Andreas Waldis
+    description: Andreas is a postdoc in the lab. He has a background in natural language processing with a focus on the evaluation, interpretability, and generalizability of language models. He loves conducting extensive experiments to examine behavioral and internal perspectives on language models and to connect insights to linguistic or cognitive theories, thereby gaining a comprehensive understanding of these models and their societal role.
   - title: Nadine Balbach
     image:
       src: /assets/img/work/water.png
