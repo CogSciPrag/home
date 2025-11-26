@@ -13,7 +13,7 @@ items:
       src: /assets/img/work/TNS.png
       alt: Todd Snider
     description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
- - title: Andreas Waldis
+  - title: Andreas Waldis
     image:
       src: /assets/img/work/AW.png
       alt: Andreas Waldis
