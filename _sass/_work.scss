@@ -1,12 +1,16 @@
 .work-item {
-  clear: both;
-  overflow: hidden;
+  // clear: both;
+  // overflow: hidden;
+  display: flex;          
+  align-items: flex-start;
   padding-bottom: 3em;
 }
 
 .work-bubble {
-  float: left;
-  padding-right: 20px;
+  // float: left;
+  // padding-right: 20px;
+  margin-right: 20px;
+  flex-shrink: 0;
   width: 100px;
   height: 100px;
 }
