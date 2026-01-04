@@ -20,7 +20,7 @@ items:
     description: Andreas is a postdoc in the lab. He has a background in natural language processing with a focus on the evaluation, interpretability, and generalizability of language models. He loves conducting extensive experiments to examine behavioral and internal perspectives on language models and to connect insights to linguistic or cognitive theories, thereby gaining a comprehensive understanding of these models and their societal role.
   - title: Nadine Balbach
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/placeholder.png
       alt: Nadine Balbach
     description: Apart from coordinating a DFG center, Nadine is also a PhD student working in the field of experimental pragmatics. Her research focuses on the inferences triggered by exceptives. She investigates this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, she conducts self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
   - title: Eline Ensinck
@@ -35,7 +35,7 @@ items:
     description: Ari is a PhD student, based at ZAS Berlin. She's broadly interested in how we modulate and coordinate on meaning components that are shared 'between the lines'. In her doctoral project, she is approaching this through the lens of so-called metalinguistic operators, like the negation in "Mary didn't *stop* smoking, since she never started". She also enjoys thinking about the depth-charge illusion, assorted curiosities from Marathi, and the probabilisticness of apparently everything. At the moment, her preferred tools are mostly formal and experimental.
   - title: Jan-Felix Klumpp
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/placeholder.png
       alt: Jan-Felix Klumpp
     description: Jan-Felix is a first-year PhD student in General / Computational Linguistics. He is particularly interested in the pragmatic behaviour of modern Large Language Models, in using them to model more complex reasoning processes, and more generally in the implications of these models for linguistic research.
   - title: Amir Mohammadpour
