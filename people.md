@@ -18,6 +18,13 @@ items:
       src: /assets/img/work/AW.png
       alt: Andreas Waldis
     description: Andreas is a postdoc in the lab. He has a background in natural language processing with a focus on the evaluation, interpretability, and generalizability of language models. He loves conducting extensive experiments to examine behavioral and internal perspectives on language models and to connect insights to linguistic or cognitive theories, thereby gaining a comprehensive understanding of these models and their societal role.
+
+  - title: Ananya Albrecht-Buehler
+    image:
+      src: /assets/img/work/placeholder.png
+      alt: Ananya Albrecht-Buehler
+    description: Ananya is a first-year PhD student in the A7 project within the CRC 1718 Common Ground. Her research draws on a background in Experimental Psychology and Quantitative Data Science Methods to investigate the communicative (and potentially linguistic) abilities of non-humans.
+
   - title: Nadine Balbach
     image:
       src: /assets/img/work/placeholder.png
