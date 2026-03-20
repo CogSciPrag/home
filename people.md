@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/TNS.png
       alt: Todd Snider
-    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory.
+    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory. Todd is also a PI in the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>
   - title: <a href="https://tresiwald.github.io/">Andreas Waldis</a>
     image:
       src: /assets/img/work/AW.png
@@ -23,7 +23,7 @@ items:
     image:
       src: /assets/img/work/placeholder.png
       alt: Ananya Albrecht-Buehler
-    description: Ananya is a first-year PhD student in the A7 project within the CRC 1718 Common Ground. Her research draws on a background in Experimental Psychology and Quantitative Data Science Methods to investigate the communicative (and potentially linguistic) abilities of non-humans.
+    description: Ananya is a first-year PhD student in the A7 project within the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>. Her research draws on a background in Experimental Psychology and Quantitative Data Science Methods to investigate the communicative (and potentially linguistic) abilities of non-humans.
 
   - title: Nadine Balbach
     image:
@@ -54,7 +54,7 @@ items:
     image:
       src: /assets/img/work/AR.png
       alt: Amelie Rüeck
-    description: Amelie is a first year PhD student in General Linguistics, as part of project A1 of the <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-common-ground/">CRC 1718 on Common Ground</a>. With a background in syntax, pragmatics, and computational linguistics, she is mainly interested in probabilistic reasoning about Common Ground, particularly within the Rational Speech Act framework. She is also interested in the syntax-pragmatics interface and in uncooperative communication.
+    description: Amelie is a first year PhD student in General Linguistics, as part of project A1 of the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>. With a background in syntax, pragmatics, and computational linguistics, she is mainly interested in probabilistic reasoning about Common Ground, particularly within the Rational Speech Act framework. She is also interested in the syntax-pragmatics interface and in uncooperative communication.
   - title: <a href="https://polina-tsvilodub.github.io/home//">Polina Tsvilodub</a>
     image:
       src: /assets/img/work/PT.png
