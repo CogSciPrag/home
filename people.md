@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/TNS.png
       alt: Todd Snider
-    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory. Todd is also a PI in the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>
+    description: Todd is a postdoc in the lab, with a background in semantics and pragmatics. He's especially interested in different types of meaning (asserted, presupposed, not-at-issue, etc.) and how they interact with sentence- and discourse-level phenomena like anaphora. His favorite projects bring insights from philosophy, psychology, mathematics, and computer science into contemporary linguistic theory. Todd is also a PI in the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>.
   - title: <a href="https://tresiwald.github.io/">Andreas Waldis</a>
     image:
       src: /assets/img/work/AW.png
