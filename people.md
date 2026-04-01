@@ -21,7 +21,7 @@ items:
 
   - title: Ananya Albrecht-Buehler
     image:
-      src: /assets/img/work/placeholder.png
+      src: /assets/img/work/AAB.png
       alt: Ananya Albrecht-Buehler
     description: Ananya is a first-year PhD student in the A7 project within the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>. Her research draws on a background in Experimental Psychology and Quantitative Data Science Methods to investigate the communicative (and potentially linguistic) abilities of non-humans.
 
