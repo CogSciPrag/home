@@ -59,7 +59,7 @@ items:
     image:
       src: /assets/img/work/MiSc.png
       alt: Miriam Schiele
-    description: Miriam is the scientific coordinator of the SPP LaSTing and is in the final stage of her PhD. She combines her interest in language research with coordinating the scientific activities and events of the SPP. Her research focuses on crosslinguistic acceptability judgment experiments and benchmarking. She is particularly interested in how experimental linguistic data can be used to evaluate and better understand LMMs.
+    description: Miriam is the scientific coordinator of the SPP LaSTing and is in the final stage of her PhD. She combines her interest in language research with coordinating the scientific activities and events of the SPP. Her research focuses on crosslinguistic acceptability judgment experiments and benchmarking. She is particularly interested in how experimental linguistic data can be used to evaluate and better understand LLMs.
   - title: <a href="https://polina-tsvilodub.github.io/home//">Polina Tsvilodub</a>
     image:
       src: /assets/img/work/PT.png
