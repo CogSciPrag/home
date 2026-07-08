@@ -30,6 +30,11 @@ items:
       src: /assets/img/work/placeholder.png
       alt: Nadine Balbach
     description: Apart from coordinating a DFG center, Nadine is also a PhD student working in the field of experimental pragmatics. Her research focuses on the inferences triggered by exceptives. She investigates this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, she conducts self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
+  - title: Fidan Can
+    image:
+      src: /assets/img/work/FC.png
+      alt: Fidan Can
+    description: Fidan is the secretary for the SPP LaSTing and holds a Master's degree in Computational Linguistics. She likes to assist people and strives to find efficient solutions. In another dimension, her research interests focus on human values and their computational representation. You can also find her digging through the music world in search of hidden artists of synthwave/electronic music.
   - title: Eline Ensinck
     image:
       src: /assets/img/work/EE.png
