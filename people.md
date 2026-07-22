@@ -30,6 +30,11 @@ items:
       src: /assets/img/work/placeholder.png
       alt: Nadine Balbach
     description: Apart from coordinating a DFG center, Nadine is also a PhD student working in the field of experimental pragmatics. Her research focuses on the inferences triggered by exceptives. She investigates this topic by examining not only the developmental trajectory of exceptives and its associated inferences, but also their status and the processing costs involved in accommodating non-saturated or falsified inferences more generally. To this end, she conducts self-paced reading experiments, picture verification tasks, and corpus linguistic analyses.
+  - title: Fidan Can
+    image:
+      src: /assets/img/work/FC.png
+      alt: Fidan Can
+    description: Fidan is the secretary for the SPP LaSTing and holds a Master's degree in Computational Linguistics. She likes to assist people and strives to find efficient solutions. In another dimension, her research interests focus on human values and their computational representation. You can also find her digging through the music world in search of hidden artists of synthwave/electronic music.
   - title: Eline Ensinck
     image:
       src: /assets/img/work/EE.png
@@ -55,6 +60,11 @@ items:
       src: /assets/img/work/AR.png
       alt: Amelie Rüeck
     description: Amelie is a first year PhD student in General Linguistics, as part of project A1 of the <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">CRC 1718 on Common Ground</a>. With a background in syntax, pragmatics, and computational linguistics, she is mainly interested in probabilistic reasoning about Common Ground, particularly within the Rational Speech Act framework. She is also interested in the syntax-pragmatics interface and in uncooperative communication.
+  - title: Miriam Schiele
+    image:
+      src: /assets/img/work/MiSc.png
+      alt: Miriam Schiele
+    description: Miriam is the scientific coordinator of the SPP LaSTing and is in the final stage of her PhD. She combines her interest in language research with coordinating the scientific activities and events of the SPP. Her research focuses on crosslinguistic acceptability judgment experiments and benchmarking. She is particularly interested in how experimental linguistic data can be used to evaluate and better understand LLMs.
   - title: <a href="https://polina-tsvilodub.github.io/home//">Polina Tsvilodub</a>
     image:
       src: /assets/img/work/PT.png
