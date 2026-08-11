@@ -75,7 +75,7 @@ items:
       src: /assets/img/work/HW_avatar.png
       alt: Hening Wang
     description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Leibniz Association</a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
-  - title: Erik Zeiner
+  - title: <a href="https://erikzeiner.github.io">Erik Zeiner</a>
     image:
       src: /assets/img/work/EZ.png
       alt: Erik Zeiner
