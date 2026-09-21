@@ -19,7 +19,7 @@ items:
       alt: Andreas Waldis
     description: Andreas is a postdoc in the lab. He has a background in natural language processing with a focus on the evaluation, interpretability, and generalizability of language models. He loves conducting extensive experiments to examine behavioral and internal perspectives on language models and to connect insights to linguistic or cognitive theories, thereby gaining a comprehensive understanding of these models and their societal role.
 
-  - title: Ananya Albrecht-Buehler
+  - title: <a href="https://aalbrechtbuehler.github.io/">Ananya Albrecht-Buehler</a>
     image:
       src: /assets/img/work/AAB.png
       alt: Ananya Albrecht-Buehler
