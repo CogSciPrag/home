@@ -19,7 +19,7 @@ items:
       alt: Andreas Waldis
     description: Andreas is a postdoc in the lab. He has a background in natural language processing with a focus on the evaluation, interpretability, and generalizability of language models. He loves conducting extensive experiments to examine behavioral and internal perspectives on language models and to connect insights to linguistic or cognitive theories, thereby gaining a comprehensive understanding of these models and their societal role.
 
-  - title: Ananya Albrecht-Buehler
+  - title: <a href="https://aalbrechtbuehler.github.io/">Ananya Albrecht-Buehler</a>
     image:
       src: /assets/img/work/AAB.png
       alt: Ananya Albrecht-Buehler
@@ -75,7 +75,7 @@ items:
       src: /assets/img/work/HW_avatar.png
       alt: Hening Wang
     description: Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Leibniz Association</a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
-  - title: Erik Zeiner
+  - title: <a href="https://erikzeiner.github.io">Erik Zeiner</a>
     image:
       src: /assets/img/work/EZ.png
       alt: Erik Zeiner
